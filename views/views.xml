@@ -1,0 +1,26 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+
+    <!-- <record model="ir.ui.view" id="fadoo_license.list">
+      <field name="name">fadoo_license list</field>
+      <field name="model">fadoo_license.fadoo_license</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record> -->
+
+    <!-- Top menu item -->
+    <!-- <menuitem name="fadoo_license" id="fadoo_license.menu_root"/> -->
+
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="fadoo_license.menu_1" parent="fadoo_license.menu_root"/>
+    <menuitem name="Menu 2" id="fadoo_license.menu_2" parent="fadoo_license.menu_root"/>
+-->
+  </data>
+</odoo>
